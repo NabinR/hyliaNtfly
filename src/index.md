@@ -11,7 +11,6 @@ TESTING Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Net
 
 Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms)
 
-```html
 <div class="row my-2">
   <div class="col-md-4 text-left">
     <a class=" ml-2" style="font-weight: 600; font-size: 1.3rem;" href="#!/~/">Our Specialities</a>
@@ -24,9 +23,9 @@ Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/d
   </div>
 </div>
 
- <div id="my-store-28117020"></div>
+<div id="my-store-28117020"></div>
                     
- <div class="ec-cart-widget text-center" style="margin-top: -20px;"></div>
+<div class="ec-cart-widget text-center" style="margin-top: -20px;"></div>
 
 <div class="mt-0">
   <script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?28117020&data_platform=code&data_date=2020-04-18" charset="utf-8"></script>
@@ -34,4 +33,3 @@ Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/d
   <script type="text/javascript"> xSearch("id=my-search-28117020"); </script>
   <script type="text/javascript">Ecwid.init();</script>
 </div>
-```
