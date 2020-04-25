@@ -5,25 +5,4 @@ permalink: /About/index.html
 metaTitle: About
 metaDesc: About
 ---
-<div class="row my-2">
-  <div class="col-md-4 text-left">
-    <a class=" ml-2" style="font-weight: 600; font-size: 1.3rem;" href="#!/~/">Our Specialities</a>
-  </div>
-  <div class="col-md-4 text-center mt-1">
-    <div id="my-search-28117020"></div>
-  </div>
-  <div class="col-md-4 text-right" style="margin-top: -5px;">
-    <div class="ec-cart-widget"></div>
-  </div>
-</div>
-
-<div id="my-store-28117020"></div>
-                    
-<div class="ec-cart-widget text-center" style="margin-top: -20px;"></div>
-
-<div class="mt-0">
-  <script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?28117020&data_platform=code&data_date=2020-04-18" charset="utf-8"></script>
-  <script type="text/javascript"> xProductBrowser("categoriesPerRow=3","views=grid(20,3) list(60) table(60)","categoryView=grid","searchView=list","id=my-store-28117020");</script>
-  <script type="text/javascript"> xSearch("id=my-search-28117020"); </script>
-  <script type="text/javascript">Ecwid.init();</script>
-</div>
+<div class="ecsp ecsp-SingleProduct-v2 ecsp-SingleProduct-v2-bordered ecsp-SingleProduct-v2-centered ecsp-Product ec-Product-191292099" itemscope itemtype="http://schema.org/Product" data-single-product-id="191292099"><div itemprop="image"></div><div class="ecsp-title" itemprop="name" content="Avenue (Beef) Burger/Wrap"></div><div itemtype="http://schema.org/Offer" itemscope itemprop="offers"><div class="ecsp-productBrowser-price ecsp-price" itemprop="price" content="14"><div itemprop="priceCurrency" content="AUD"></div></div></div><div customprop="options"></div></div><script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?28117020&data_platform=singleproduct_v2" charset="utf-8"></script><script type="text/javascript">xProduct()</script>
